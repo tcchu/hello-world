@@ -1,2 +1,3 @@
 # hello-world
-Practice
+
+I'm Ted, an aspiring UX Designer.
